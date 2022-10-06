@@ -9,7 +9,6 @@ weight: 2
 For year 2022, we have been successfully supplied condenser coil and Trane outdoor ic board for HVAC
 
 ## Project 1
-
 HVAC Condenser Coil supply for Sumandak platform
 
 | Project Name       | Month   | Client   |
@@ -19,7 +18,6 @@ HVAC Condenser Coil supply for Sumandak platform
 ---
 
 ## Project 2
-
 HVAC Condenser Coil supply
 
 | Project Name       | Month   | Client   |

@@ -31,3 +31,12 @@ For year 2022, we have been successfully supplied condenser coil and Trane outdo
 | TRANE OUTDOOR IC BOARD (STARTER CONTROLLER -UC4C) FOR RAUP MODEL   | Sept 2022 | PCFSSB-SBA |
 
 ---
+
+
+## Project 4
+
+| Project Name       | Month   | Client   |
+| --------- | --------------- | --------------- |
+| Ventilating Fan KAKU KA1225HA1SAT   | Sept 2022 | PCMSB-SBA |
+
+---
